@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>SK Inter Food</title>
+<title>Test Site</title>
 <meta charset="UTF-8">
 <?php require 'style.php'; ?>  
 </head>
